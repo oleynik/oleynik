@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **anything.**
 
-- 📫 How to reach me **alex.p.oliinyk@gmail.com**
+- 📫 How to reach me <b><a href="mailto:alex.p.oliinyk@gmail.com">My Email</a></b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
